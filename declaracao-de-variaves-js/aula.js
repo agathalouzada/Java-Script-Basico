@@ -1,3 +1,3 @@
-Nome = prompt ("Qual seu nome?") 
-Idade = parseInt (prompt("Qual sua idade?"))
-Curso = prompt("Qual seu curso?")
+nome = prompt ("Qual seu nome?") 
+idade = parseInt (prompt("Qual sua idade?"))
+curso = prompt("Qual seu curso?")
